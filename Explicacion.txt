@@ -1,0 +1,1 @@
+Esto es una explicación de como usar git
